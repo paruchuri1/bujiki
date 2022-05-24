@@ -2,7 +2,7 @@ pseudo code
 	{
 	Initial Function()
 	{
-	  //Sample Code
+	  //Sample Code edited for Feature2
 	}
 	
 
